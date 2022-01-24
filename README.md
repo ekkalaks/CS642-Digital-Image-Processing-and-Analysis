@@ -1,6 +1,7 @@
 # CS642-Digital-Image-Processing-and-Analysis
 คพ. 642 การประมวลผลและวิเคราะห์ข้อมูลภาพดิจิทัล
 CS642 Digital Image Processing & Analysis
+
 ภาคการศึกษาที่ 2 ปี การศึกษา 2564
 
 ผู้บรรยายายผศ. ดร. เสาวลักษณ์ วรรธนาภา E-mail: scw@cs.tu.ac.th
